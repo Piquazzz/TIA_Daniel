@@ -1,10 +1,9 @@
 {
-   "partidos":[
+   "Alumnos":[
       {
-         "partido":"PP",
-         "mediaAutoubicacion":7.09,
-         "votantes":2509,
-         "nsnc":302
+         "alumno":"PP",
+         "nota":7.09,
+         "ranking":2509,
       },
       {
          "partido":"PSOE",
@@ -2116,3 +2115,4 @@
       ]
    }
 }
+
