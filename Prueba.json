@@ -3,7 +3,7 @@
       {
          "alumno":"Daniel",
          "nota":7.09,
-         "ranking":2509,
+         "ranking":2509
       },
       {
          "alumnos":"Pedro",
@@ -579,3 +579,4 @@
       ]
    }
 }
+
